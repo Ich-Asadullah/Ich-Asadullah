@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asadullah</h1>
 <h3 align="center">A passionate Learner from Pakistan</h3>
 
+<img align="right" alt="Asad" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF5ODF6cHRobmc4Mmxqbjl4OTJ2bm81YmthZ3p5dWs1b3h4a2tseCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ich-asadullah" alt="ich-asadullah" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Ethical Hacking**
