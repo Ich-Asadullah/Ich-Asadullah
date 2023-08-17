@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asadullah</h1>
 <h3 align="center">A passionate Learner from Pakistan</h3>
 
-<img align="right" alt="Asad" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF5ODF6cHRobmc4Mmxqbjl4OTJ2bm81YmthZ3p5dWs1b3h4a2tseCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif">
+<img align="right" alt="Asad" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF5ODF6cHRobmc4Mmxqbjl4OTJ2bm81YmthZ3p5dWs1b3h4a2tseCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
 
 - 🌱 I’m currently learning **Data Science, Ethical Hacking**
 
