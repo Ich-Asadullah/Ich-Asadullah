@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Ethical Hacking**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, DSA, Networks, Malware**
 
 - 📫 How to reach me **Ichasadullah@gmail.com**
 
